@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss(),
     vue(),
   ],
-  base: "/PostList/"
+  // base: "/PostList/"
 })
